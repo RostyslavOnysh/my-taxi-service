@@ -1,6 +1,6 @@
-## Language English
+# Language English
 
-# My Taxi Service
+## My Taxi Service
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/RostyslavOnysh/my-taxi-service)
 ![GitHub license](https://img.shields.io/github/license/RostyslavOnysh/my-taxi-service)
@@ -63,8 +63,8 @@ mvn clean install
 
  
 
-## Languaage Ukrainian
-# My Taxi Service
+# Language Ukrainian
+## My Taxi Service
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/RostyslavOnysh/my-taxi-service)
 ![GitHub license](https://img.shields.io/github/license/RostyslavOnysh/my-taxi-service)
