@@ -1,4 +1,4 @@
-## Language English 🇬🇧
+## Language English
 
 # My Taxi Service
 
@@ -49,9 +49,9 @@ mvn clean install
 ```
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-## Languaage Ukrainian 🇺🇦
+## Languaage Ukrainian
 # My Taxi Service
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/RostyslavOnysh/my-taxi-service)
