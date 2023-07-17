@@ -28,13 +28,13 @@ Controllers that interact with JSP pages and handle user requests.
 MySQL as the database management system (DBMS).
 ## ℹ️ Database Structure
 For the database structure, MySQL is used to store and manage the data. The database has the following structure:
+* The "drivers" table with fields: id, name, and license_number.
+* The "manufacturers" table with fields: id, name, and country.
+* The "cars" table with fields: id, model, and manufacturer_id, where manufacturer_id is a foreign key referencing the "manufacturers" table.
+ ![DB](https://github.com/RostyslavOnysh/my-taxi-service/assets/98691406/9d4356c3-9f9c-4189-acdb-d0123c93d6f2)
 
-The "drivers" table with fields: id, name, and license_number.
-The "manufacturers" table with fields: id, name, and country.
-The "cars" table with fields: id, model, and manufacturer_id, where manufacturer_id is a foreign key referencing the "manufacturers" table.
-DB
 
-## ⚠️ Requirements
+## Requirements
 Before getting started with the project, make sure you have the following components installed:
 
 Java Development Kit (JDK) version 11 or above.
