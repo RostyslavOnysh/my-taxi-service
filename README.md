@@ -15,7 +15,7 @@ My Taxi Service is a web application for managing a taxi service. This project i
 
 ## Project Description
 
-This project is developed for the "My Taxi Service" web application. The project is based on the Java web framework - Spring Boot. It provides functionality for managing a taxi service, taxi booking, user authentication, and much more.
+This project is developed for the "My Taxi Service" web application. The project provides functionality for managing a taxi service, taxi booking, user authentication, and much more.
 
 Key features of the project include:
 
@@ -71,13 +71,13 @@ My Taxi Service є веб-додатком для управління такс�
 - [Опис проекту](#опис-проекту)
 - [Вимоги](#вимоги)
 - [Інсталяція](#інсталяція)
-- [ConnectionUtil class](#connectionutil-class)
+- [Connection class](#connection-class)
 - [Ліцензія](#ліцензія)
 
 
 ## Опис проекту
 
-Цей проект розробляється для веб-додатку "My Taxi Service". Проект базується на веб-фреймворку Java - Spring Boot. Він надає функціональність для керування таксі-сервісом, замовлення таксі, авторизації користувачів і багато іншого.
+Цей проект розробляється для веб-додатку "My Taxi Service".Надає функціональність для керування таксі-сервісом, замовлення таксі, авторизації користувачів і багато іншого.
 
 Основні функції проекту включають:
 
@@ -103,7 +103,7 @@ My Taxi Service є веб-додатком для управління такс�
 git clone https://github.com/RostyslavOnysh/my-taxi-service.git
 ```
 
-## ConnectionUtil class
+## Connection class
 У класі ConnectionUtil який знаходится за шляхом 
  ***src/main/java/taxi/util/ConnectionUtil***,
  треба змінити значення констант URL, USERNAME, PASSWORD та JDBC_DRIVER на відповідні дані для вашої бази даних.
