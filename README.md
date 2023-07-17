@@ -46,6 +46,8 @@ git clone https://github.com/RostyslavOnysh/my-taxi-service.git
 mvn clean install
 ```
 
+## License
+Feel free to modify this README.md file according to the specifications of your project, including relevant details, functionality descriptions, documentation links, and more.
 
 
 
