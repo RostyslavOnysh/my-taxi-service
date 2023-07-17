@@ -141,7 +141,7 @@ Controllers that interact with JSP pages and handle user requests.
 MySQL as the database management system (DBMS).
 ## ℹ️ Database Structure
 For the database structure, MySQL is used to store and manage the data. The database has the following structure:
-* The "drivers" table with fields: id, name, and license_number.
+* The "drivers" table with fields: id, name, and license_number,login,password.
 * The "manufacturers" table with fields: id, name, and country.
 * The "cars" table with fields: id, model, and manufacturer_id, where manufacturer_id is a foreign key referencing the "manufacturers" table.
 
