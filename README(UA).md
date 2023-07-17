@@ -1,4 +1,4 @@
-## My Taxi Service(UA)
+## 🚕 My Taxi Service(UA)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/RostyslavOnysh/my-taxi-service)
 ![GitHub license](https://img.shields.io/github/license/RostyslavOnysh/my-taxi-service)
