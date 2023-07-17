@@ -104,7 +104,9 @@ git clone https://github.com/RostyslavOnysh/my-taxi-service.git
 ```
 
 ## ConnectionUtil class
-У класі ConnectionUtil треба змінити значення констант URL, USERNAME, PASSWORD та JDBC_DRIVER на відповідні дані для вашої бази даних.
+У класі ConnectionUtil який знаходится за шляхом 
+ ***src/main/java/taxi/util/ConnectionUtil***,
+ треба змінити значення констант URL, USERNAME, PASSWORD та JDBC_DRIVER на відповідні дані для вашої бази даних.
 * URL - це URL-адреса бази даних, яку ви хочете підключити.
 * USERNAME - це ім'я користувача для доступу до бази даних.
 * PASSWORD - це пароль для доступу до бази даних.
