@@ -31,6 +31,8 @@ For the database structure, MySQL is used to store and manage the data. The data
 * The "drivers" table with fields: id, name, and license_number.
 * The "manufacturers" table with fields: id, name, and country.
 * The "cars" table with fields: id, model, and manufacturer_id, where manufacturer_id is a foreign key referencing the "manufacturers" table.
+
+  
  ![DB](https://github.com/RostyslavOnysh/my-taxi-service/assets/98691406/9d4356c3-9f9c-4189-acdb-d0123c93d6f2)
 
 
