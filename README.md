@@ -111,6 +111,15 @@ git clone https://github.com/RostyslavOnysh/my-taxi-service.git
 * USERNAME - це ім'я користувача для доступу до бази даних.
 * PASSWORD - це пароль для доступу до бази даних.
 * JDBC_DRIVER - це рядок, що представляє драйвер JDBC для вашої бази даних.
+
+```java
+  public class ConnectionUtil {
+    private static final String URL = "YOUR URL";
+    private static final String USERNAME = "YOUR USERNAME";
+    private static final String PASSWORD = "YOUR PASSWORD";
+    private static final String JDBC_DRIVER = "YOUR DRIVER";
+ ```
+
 Вам потрібно знайти ці значення для вашої ***конкретної*** бази даних і замінити їх у відповідних місцях у класі ConnectionUtil.
 
 
