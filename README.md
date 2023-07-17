@@ -11,7 +11,6 @@ My Taxi Service is a web application for managing a taxi service. This project i
 - [Project Description](#project-description)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
 - [License](#license)
 
 ## Project Description
@@ -52,14 +51,6 @@ mvn clean install
 
 
 
-
-
-
-
-
-
-
-
  
  
 ## My Taxi Service(UA)
@@ -71,11 +62,10 @@ My Taxi Service є веб-додатком для управління такс�
 
 ## Вміст
 
-- Опис проекту
-- Вимоги
-- Інсталяція
-- Використання
-- Ліцензія
+- [Опис проекту](#опис-проекту)
+- [Вимоги](#вимоги)
+- [Інсталяція](#інсталяція)
+- [Ліцензія](#ліцензія)
 
 ## Опис проекту
 
