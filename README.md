@@ -1,6 +1,6 @@
-# Language English
+ 
 
-## My Taxi Service
+## My Taxi Service(EN)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/RostyslavOnysh/my-taxi-service)
 ![GitHub license](https://img.shields.io/github/license/RostyslavOnysh/my-taxi-service)
@@ -8,12 +8,11 @@
 My Taxi Service is a web application for managing a taxi service. This project implements features for taxi management, user registration and authentication, taxi booking, order tracking, and more.
 
 ## Table of Contents
-
-- Project Description
-- Requirements
-- Installation
-- Usage
-- License
+- [Project Description](#project-description)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
 
 ## Project Description
 
@@ -62,9 +61,8 @@ mvn clean install
 
 
  
-
-# Language Ukrainian
-## My Taxi Service
+ 
+## My Taxi Service(UA)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/RostyslavOnysh/my-taxi-service)
 ![GitHub license](https://img.shields.io/github/license/RostyslavOnysh/my-taxi-service)
