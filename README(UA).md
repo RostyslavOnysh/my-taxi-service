@@ -40,6 +40,7 @@ My Taxi Service є веб-додатком для управління такс�
 - Таблиця "cars" з полями id, model і manufacturer_id, де manufacturer_id є зовнішнім ключем, що посилається на таблицю "manufacturers".
  ![DataBase](https://github.com/RostyslavOnysh/my-taxi-service/assets/98691406/9d1381e6-a6aa-4e00-8e5b-d9ff174749f6)
 
+![DB](https://github.com/RostyslavOnysh/my-taxi-service/assets/98691406/237bd637-96f9-4cdc-8c3c-12daa790693a)
 
   
 
